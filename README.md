@@ -74,9 +74,9 @@ report.pdf
 
 ## 👥 Group Members
 
-- [Your Name]
-- [Member Name]
-- [Member Name]
+- Muhammad Huzaifa Siddiqi
+- Fasih Sideeq
+- Abdullah Shahzad
 
 ---
 
