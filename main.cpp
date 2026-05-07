@@ -217,7 +217,7 @@ public:
         matrix[7][4] = new king('W');
     }
 
-    void display() // Print board
+    void display() // Chess board display function
     {
         cout << "\n  a b c d e f g h\n";
         for (int i = 0; i < 8; i++) // Rows
